@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "dantegg",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "file-loader": "^0.8.5",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4"
+  }
+}
